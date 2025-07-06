@@ -1,1 +1,2 @@
-# BacktestingNQ - Proyecto de Trading con NASDAQ Futures
+# Proyecto Backtesting para XAU/USD Forex
+
