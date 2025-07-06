@@ -1,5 +1,5 @@
 # 📅 Fecha del Trade: 15/08/2025
-# 📊 Trade #012 - Nasdaq 100 (NQ)
+# 📊 Trade #012 - XAU/USD
 
 ![Gráfico del Trade](trade_012.png) <!-- Asegúrate que el nombre coincida exactamente -->
 

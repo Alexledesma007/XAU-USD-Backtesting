@@ -1,5 +1,5 @@
 # 📅 Fecha del Trade: 15/08/2025
-# 📊 Trade #096 - Nasdaq 100 (NQ)
+# 📊 Trade #096 - XAU/USD
 
 ![Gráfico del Trade](trade_096.png) <!-- Asegúrate que el nombre coincida exactamente -->
 
